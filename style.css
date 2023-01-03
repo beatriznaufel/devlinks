@@ -136,7 +136,7 @@ ul li a:hover {
 }
 
 footer {
-  padding: 50px 0;
+  padding: 30px 0;
   text-align: center;
   font-size: 14px;
 }
@@ -146,7 +146,7 @@ footer {
     --bg-url: url("assets/bg-desktop.jpg");
   }
   footer {
-    padding: 350px 0;
+    padding: 200px 0;
   }
 
   .light {
