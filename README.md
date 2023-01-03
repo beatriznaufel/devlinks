@@ -42,4 +42,4 @@ This project is licensed under the MIT license.
 
 ---
 
-Made with ♥ by Maria Beatriz :wave:
+Made with ♥ by Rocketseat :wave:
