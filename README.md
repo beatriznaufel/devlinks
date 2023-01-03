@@ -18,7 +18,7 @@ Exclusive and free program, promoted by Rocketseat for teaching WEB technologies
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Techs
@@ -28,7 +28,7 @@ Exclusive and free program, promoted by Rocketseat for teaching WEB technologies
 - Git & Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 DevLinks is a link aggregator to use as an online business card.
 
@@ -36,7 +36,7 @@ DevLinks is a link aggregator to use as an online business card.
 
 You can view the layout of the project through [THIS LINK](https://www.figma.com/community/file/1187422022288947321).
 
-## :memo: Licença
+## :memo: Licence
 
 This project is licensed under the MIT license.
 
